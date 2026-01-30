@@ -1,0 +1,23 @@
+## PARTIES
+Agreement between [Buyer Company] and [Vendor Company].
+
+## SERVICES
+Vendor shall provide services as described in Schedule A.
+
+## PAYMENT
+Buyer shall pay ₹[Amount] within 30 days of invoice receipt.
+
+## DELIVERABLES
+All deliverables must meet specifications in Schedule B.
+
+## TERM
+This agreement is valid for [Duration] from the effective date.
+
+## TERMINATION
+Either party may terminate for material breach with 15 days notice.
+
+## LIABILITY
+Liability is limited to the total contract value.
+
+## GOVERNING LAW
+This agreement is governed by Indian law.

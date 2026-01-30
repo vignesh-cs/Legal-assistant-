@@ -1,0 +1,246 @@
+[
+  {
+    "timestamp": "2026-01-30T19:58:53.909069",
+    "document_hash": "5853b9926cb8ab2b",
+    "analysis": {
+      "document_hash": "5853b9926cb8ab2b",
+      "contract_type": "Employment Agreements",
+      "type_confidence": "80%",
+      "language": "en",
+      "overall_risk_score": 0.08,
+      "overall_risk_level": "Low 🟢",
+      "entities": {
+        "PARTIES": [
+          "ABC Company",
+          "Employee"
+        ],
+        "DATES": [],
+        "MONEY": [
+          "₹50,000",
+          "50,000"
+        ],
+        "ORG": [
+          "ABC Company"
+        ],
+        "LAW": [],
+        "LOC": []
+      },
+      "clauses_analyzed": 1,
+      "clause_details": [
+        {
+          "clause_name": "Paragraph 1",
+          "clause_type": "Jurisdiction Clause",
+          "risk_score": 0.08,
+          "risk_level": "Low 🟢",
+          "risk_flags": [],
+          "analysis": {
+            "plain_language_explanation": "This is a Jurisdiction Clause. It contains standard legal terms that should be reviewed carefully.",
+            "potential_risks": [
+              "Standard legal risks apply",
+              "Review with legal counsel"
+            ],
+            "unfair_terms": [
+              "Check for one-sided terms"
+            ],
+            "suggested_alternative": "Consult legal counsel for appropriate wording",
+            "compliance_notes": "Ensure compliance with Indian Contract Act, 1872",
+            "negotiation_tips": [
+              "Understand all terms",
+              "Get legal advice",
+              "Negotiate fair terms"
+            ],
+            "severity": "Medium"
+          },
+          "text_preview": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India.",
+          "full_text": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India."
+        }
+      ],
+      "summary": "**Executive Summary for Employment Agreements**\n        \nThis contract requires careful review. Found 0 high-risk clauses that need immediate attention.\n\n**Key Concerns:**\n1. Review all indemnity and liability clauses\n2. Check termination conditions carefully\n3. Verify jurisdiction is in India\n\n**Next Steps:**\n1. Discuss high-risk clauses with legal counsel\n2. Negotiate fair terms before signing\n3. Document all agreed changes\n\n**Urgency: Medium**\n",
+      "timestamp": "2026-01-30T19:58:53.909069",
+      "file_name": "test_contracts.txt"
+    }
+  },
+  {
+    "timestamp": "2026-01-30T20:08:29.849458",
+    "document_hash": "5853b9926cb8ab2b",
+    "analysis": {
+      "document_hash": "5853b9926cb8ab2b",
+      "contract_type": "Employment Agreements",
+      "type_confidence": "80%",
+      "language": "en",
+      "overall_risk_score": 0.08,
+      "overall_risk_level": "Low 🟢",
+      "entities": {
+        "PARTIES": [
+          "ABC Company",
+          "Employee"
+        ],
+        "DATES": [],
+        "MONEY": [
+          "₹50,000",
+          "50,000"
+        ],
+        "ORG": [
+          "ABC Company"
+        ],
+        "LAW": [],
+        "LOC": []
+      },
+      "clauses_analyzed": 1,
+      "clause_details": [
+        {
+          "clause_name": "Paragraph 1",
+          "clause_type": "Jurisdiction Clause",
+          "risk_score": 0.08,
+          "risk_level": "Low 🟢",
+          "risk_flags": [],
+          "analysis": {
+            "plain_language_explanation": "This is a Jurisdiction Clause. It contains standard legal terms that should be reviewed carefully.",
+            "potential_risks": [
+              "Standard legal risks apply",
+              "Review with legal counsel"
+            ],
+            "unfair_terms": [
+              "Check for one-sided terms"
+            ],
+            "suggested_alternative": "Consult legal counsel for appropriate wording",
+            "compliance_notes": "Ensure compliance with Indian Contract Act, 1872",
+            "negotiation_tips": [
+              "Understand all terms",
+              "Get legal advice",
+              "Negotiate fair terms"
+            ],
+            "severity": "Medium"
+          },
+          "text_preview": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India.",
+          "full_text": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India."
+        }
+      ],
+      "summary": "**Executive Summary for Employment Agreements**\n        \nThis contract requires careful review. Found 0 high-risk clauses that need immediate attention.\n\n**Key Concerns:**\n1. Review all indemnity and liability clauses\n2. Check termination conditions carefully\n3. Verify jurisdiction is in India\n\n**Next Steps:**\n1. Discuss high-risk clauses with legal counsel\n2. Negotiate fair terms before signing\n3. Document all agreed changes\n\n**Urgency: Medium**\n",
+      "timestamp": "2026-01-30T20:08:29.849458",
+      "file_name": "test_contracts.txt"
+    }
+  },
+  {
+    "timestamp": "2026-01-30T20:41:57.140937",
+    "document_hash": "5853b9926cb8ab2b",
+    "analysis": {
+      "document_hash": "5853b9926cb8ab2b",
+      "contract_type": "Employment Agreements",
+      "type_confidence": "80%",
+      "language": "en",
+      "overall_risk_score": 0.08,
+      "overall_risk_level": "Low 🟢",
+      "entities": {
+        "PARTIES": [
+          "ABC Company",
+          "Employee"
+        ],
+        "DATES": [],
+        "MONEY": [
+          "50,000",
+          "₹50,000"
+        ],
+        "ORG": [
+          "ABC Company"
+        ],
+        "LAW": [],
+        "LOC": []
+      },
+      "clauses_analyzed": 1,
+      "clause_details": [
+        {
+          "clause_name": "Paragraph 1",
+          "clause_type": "Jurisdiction Clause",
+          "risk_score": 0.08,
+          "risk_level": "Low 🟢",
+          "risk_flags": [],
+          "analysis": {
+            "plain_language_explanation": "This is a Jurisdiction Clause. It contains standard legal terms that should be reviewed carefully.",
+            "potential_risks": [
+              "Standard legal risks apply",
+              "Review with legal counsel"
+            ],
+            "unfair_terms": [
+              "Check for one-sided terms"
+            ],
+            "suggested_alternative": "Consult legal counsel for appropriate wording",
+            "compliance_notes": "Ensure compliance with Indian Contract Act, 1872",
+            "negotiation_tips": [
+              "Understand all terms",
+              "Get legal advice",
+              "Negotiate fair terms"
+            ],
+            "severity": "Medium"
+          },
+          "text_preview": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India.",
+          "full_text": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India."
+        }
+      ],
+      "summary": "**Executive Summary for Employment Agreements**\n        \nThis contract requires careful review. Found 0 high-risk clauses that need immediate attention.\n\n**Key Concerns:**\n1. Review all indemnity and liability clauses\n2. Check termination conditions carefully\n3. Verify jurisdiction is in India\n\n**Next Steps:**\n1. Discuss high-risk clauses with legal counsel\n2. Negotiate fair terms before signing\n3. Document all agreed changes\n\n**Urgency: Medium**\n",
+      "timestamp": "2026-01-30T20:41:57.140937",
+      "file_name": "test_contracts.txt"
+    }
+  },
+  {
+    "timestamp": "2026-01-30T20:44:28.469752",
+    "document_hash": "5853b9926cb8ab2b",
+    "analysis": {
+      "document_hash": "5853b9926cb8ab2b",
+      "contract_type": "Employment Agreements",
+      "type_confidence": "80%",
+      "language": "en",
+      "overall_risk_score": 0.08,
+      "overall_risk_level": "Low 🟢",
+      "entities": {
+        "PARTIES": [
+          "ABC Company",
+          "Employee"
+        ],
+        "DATES": [],
+        "MONEY": [
+          "50,000",
+          "₹50,000"
+        ],
+        "ORG": [
+          "ABC Company"
+        ],
+        "LAW": [],
+        "LOC": []
+      },
+      "clauses_analyzed": 1,
+      "clause_details": [
+        {
+          "clause_name": "Paragraph 1",
+          "clause_type": "Jurisdiction Clause",
+          "risk_score": 0.08,
+          "risk_level": "Low 🟢",
+          "risk_flags": [],
+          "analysis": {
+            "plain_language_explanation": "This is a Jurisdiction Clause. It contains standard legal terms that should be reviewed carefully.",
+            "potential_risks": [
+              "Standard legal risks apply",
+              "Review with legal counsel"
+            ],
+            "unfair_terms": [
+              "Check for one-sided terms"
+            ],
+            "suggested_alternative": "Consult legal counsel for appropriate wording",
+            "compliance_notes": "Ensure compliance with Indian Contract Act, 1872",
+            "negotiation_tips": [
+              "Understand all terms",
+              "Get legal advice",
+              "Negotiate fair terms"
+            ],
+            "severity": "Medium"
+          },
+          "text_preview": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India.",
+          "full_text": "Employment Agreement between ABC Company and Employee. Salary: ₹50,000 per month. Notice period: 30 days. Jurisdiction: Mumbai, India."
+        }
+      ],
+      "summary": "**Executive Summary for Employment Agreements**\n        \nThis contract requires careful review. Found 0 high-risk clauses that need immediate attention.\n\n**Key Concerns:**\n1. Review all indemnity and liability clauses\n2. Check termination conditions carefully\n3. Verify jurisdiction is in India\n\n**Next Steps:**\n1. Discuss high-risk clauses with legal counsel\n2. Negotiate fair terms before signing\n3. Document all agreed changes\n\n**Urgency: Medium**\n",
+      "timestamp": "2026-01-30T20:44:28.469752",
+      "file_name": "test_contracts.txt"
+    }
+  }
+]
